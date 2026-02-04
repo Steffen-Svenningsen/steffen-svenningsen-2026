@@ -6,5 +6,9 @@
     "pages": {
         "projects": "Projects",
         "about": "About"
+    },
+
+    "footer": {
+        "title": "Let's create something great!"
     }
 }

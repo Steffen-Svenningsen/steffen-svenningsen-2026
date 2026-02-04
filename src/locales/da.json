@@ -5,5 +5,9 @@
     "pages": {
         "projects": "Projekter",
         "about": "Om mig"
+    },
+
+    "footer": {
+        "title": "Lad os skabe noget fedt!"
     }
 }
