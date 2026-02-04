@@ -13,6 +13,7 @@
     "@vueuse/motion": "^3.0.3",
     "tailwindcss": "^4.1.18",
     "vue": "^3.5.27",
+    "vue-i18n": "^11.2.8",
     "vue-router": "^5.0.1"
   },
   "devDependencies": {
