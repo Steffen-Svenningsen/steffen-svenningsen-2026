@@ -27,11 +27,11 @@ import LocaleSwitcher from './LocaleSwitcher.vue';
 
 const navItems = [
     {
-        name: 'pages.projects',
+        name: 'pages.projects.title',
         path: '/projects'
     },
     {
-        name: 'pages.about',
+        name: 'pages.about.title',
         path: '/about'
     },
 ]

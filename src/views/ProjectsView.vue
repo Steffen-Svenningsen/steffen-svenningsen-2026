@@ -6,7 +6,7 @@ import ContentLayout from '@/layouts/ContentLayout.vue';
 <template>
     <ContentLayout>
         <section>
-            <h1>{{ $t('pages.projects') }}</h1>
+            <h1 class="text-3xl font-semibold mb-12">{{ $t('pages.projects.title') }}</h1>
         </section>
     </ContentLayout>
 </template>

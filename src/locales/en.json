@@ -4,8 +4,13 @@
 
 
     "pages": {
-        "projects": "Projects",
-        "about": "About"
+        "projects": {
+            "title": "Projects"
+        },
+        "about": {
+            "title": "About",
+            "description": "My name is Steffen Svenningsen. I am a web developer..."
+        }
     },
 
     "footer": {

@@ -3,8 +3,13 @@
     "introduction": "Jeg skaber intuitive weboplevelser og digitale løsninger, hvor brugervenlighed, performance og effektive workflows går hånd i hånd. Resultatet er skalerbare og brugervenlige produkter, der er bygget med forretningen i fokus.",
 
     "pages": {
-        "projects": "Projekter",
-        "about": "Om mig"
+        "projects": {
+            "title": "Projekter"
+        },
+        "about": {
+            "title": "Om mig",
+            "description": "Mit navn er Steffen Svenningsen. Jeg er webudvikler ..."
+        }
     },
 
     "footer": {
