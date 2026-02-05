@@ -9,7 +9,61 @@
         },
         "about": {
             "title": "About",
-            "description": "My name is Steffen Svenningsen. I am a web developer..."
+            "description": {
+                "paragraphs": [
+                    "I’m Steffen Svenningsen, a Web Developer with a professional bachelor’s degree in web development. I work across both frontend and backend, building websites and web applications that are scalable, maintainable, and built to perform.",
+                    "My experience includes frontend development with frameworks like Vue, backend development using Laravel, and delivering complete solutions from initial setup to long-term optimization. I also work extensively with SEO — both technical and on-page — ensuring that products are fast, discoverable, and built on a solid technical foundation.",
+                    "I’m particularly motivated by helping small businesses optimize and digitalize their workflows. I enjoy building web apps that replace manual processes, save time and money, and create practical, measurable business value. My approach is always focused on performance, usability, and cost-effective solutions that scale with the business.",
+                    "Outside of work, I’m a former elite football player and stay active through running, football, and tennis."
+                ]
+            },
+
+            "work": {
+                "title": "Erhvervserfaring",
+                "items": [
+                    {
+                        "title": "IT & Web Manager",
+                        "company": "SK Transport",
+                        "period": "Apr 2024 - Present"
+                    },
+                    {
+                        "title": "Full-Stack Developer",
+                        "company": "The Planner Studio",
+                        "period": "Aug 2025 - Oct 2025"
+                    },
+                    {
+                        "title": "Web Manager",
+                        "company": "Valeur",
+                        "period": "Sep 2023 - Nov 2025"
+                    },
+                    {
+                        "title": "Frontend Developer",
+                        "company": "Zynaps",
+                        "period": "Sep 2022 - Oct 2023"
+                    }
+                ]
+            },
+
+            "education": {
+                "title": "Education",
+                "items": [
+                    {
+                        "title": "Bachelor in Web Development",
+                        "company": "Business Academy Copenhagen",
+                        "period": "Aug 2024 - Jan 2026"
+                    },
+                    {
+                        "title": "Multimedia Designer AP Degree",
+                        "company": "Business Academy Aarhus",
+                        "period": "Jan 2022 - Jan 2024"
+                    },
+                    {
+                        "title": "Higher Commercial Examination (HHX)",
+                        "company": "Business School Haderslev",
+                        "period": "Sep 2017 - June 2020"
+                    }
+                ]
+            }
         }
     },
 

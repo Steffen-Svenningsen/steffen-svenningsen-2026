@@ -8,6 +8,7 @@ import { MotionPlugin } from '@vueuse/motion'
 import { createI18n } from 'vue-i18n'
 
 const i18n = createI18n({
+    legacy: false,
     locale: document.cookie.split('=')[1],
     messages: {
         DA: DA,

@@ -8,7 +8,61 @@
         },
         "about": {
             "title": "Om mig",
-            "description": "Mit navn er Steffen Svenningsen. Jeg er webudvikler ..."
+            "description": {
+                "paragraphs": [
+                    "Jeg hedder Steffen Svenningsen og er uddannet professionsbachelor i webudvikling. Jeg arbejder med både frontend og backend og udvikler hjemmesider og web apps, der er skalerbare, vedligeholdelsesvenlige og bygget med performance for øje.",
+                    "Jeg har erfaring med frontend-udvikling i blandt andet Vue, backend-udvikling i Laravel samt levering af komplette løsninger — fra opsætning og implementering til løbende optimering. Derudover arbejder jeg med SEO, både teknisk SEO og on-page optimering, så løsningerne er hurtige, synlige og teknisk solide.",
+                    "Jeg er særligt motiveret af at hjælpe små virksomheder med at optimere og digitalisere deres arbejdsgange. Jeg udvikler web apps, der erstatter manuelle processer, sparer tid og penge og skaber konkret forretningsværdi. Min tilgang har altid fokus på performance, brugervenlighed og omkostningseffektive løsninger, der kan vokse med forretningen.",
+                    "Uden for arbejdet er jeg tidligere elitefodboldspiller og holder mig stadig meget aktiv gennem løb, fodbold og tennis."
+                ]
+            },
+            
+            "work": {
+                "title": "Erhvervserfaring",
+                "items": [
+                    {
+                        "title": "IT & Web Manager",
+                        "company": "SK Transport",
+                        "period": "Apr 2024 - Nu"
+                    },
+                    {
+                        "title": "Full-Stack Udvikler",
+                        "company": "The Planner Studio",
+                        "period": "Aug 2025 - Okt 2025"
+                    },
+                    {
+                        "title": "Web Manager",
+                        "company": "Valeur",
+                        "period": "Sep 2023 - Nov 2025"
+                    },
+                    {
+                        "title": "Frontend Udvikler",
+                        "company": "Zynaps",
+                        "period": "Sep 2022 - Okt 2023"
+                    }
+                ]
+            },
+
+            "education": {
+                "title": "Uddannelse",
+                "items": [
+                    {
+                        "title": "Professionsbachelor i Webudvikling",
+                        "company": "Erhvervsakademi København",
+                        "period": "Aug 2024 - Jan 2026"
+                    },
+                    {
+                        "title": "Multimediedesigner",
+                        "company": "Erhvervsakademi Aarhus",
+                        "period": "Jan 2022 - Jan 2024"
+                    },
+                    {
+                        "title": "Handelsskole (HHX)",
+                        "company": "Haderslev Handelsskole",
+                        "period": "Sep 2017 - Juni 2020"
+                    }
+                ]
+            }
         }
     },
 
