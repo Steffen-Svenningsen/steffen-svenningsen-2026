@@ -21,21 +21,25 @@
                 "title": "Erhvervserfaring",
                 "items": [
                     {
+                        "tag": "Lead",
                         "title": "IT & Web Manager",
                         "company": "SK Transport",
                         "period": "Apr 2024 - Nu"
                     },
                     {
+                        "tag": "Praktik",
                         "title": "Full-Stack Udvikler",
                         "company": "The Planner Studio",
                         "period": "Aug 2025 - Okt 2025"
                     },
                     {
+                        "tag": "Lead",
                         "title": "Web Manager",
                         "company": "Valeur",
                         "period": "Sep 2023 - Nov 2025"
                     },
                     {
+                        "tag": "Junior",
                         "title": "Frontend Udvikler",
                         "company": "Zynaps",
                         "period": "Sep 2022 - Okt 2023"
@@ -47,16 +51,19 @@
                 "title": "Uddannelse",
                 "items": [
                     {
+                        "tag": "PHP & Full-Stack",
                         "title": "Professionsbachelor i Webudvikling",
                         "company": "Erhvervsakademi København",
                         "period": "Aug 2024 - Jan 2026"
                     },
                     {
+                        "tag": "Specialisering i Frontend",
                         "title": "Multimediedesigner",
                         "company": "Erhvervsakademi Aarhus",
                         "period": "Jan 2022 - Jan 2024"
                     },
                     {
+                        "tag": "Marketing & Business",
                         "title": "Handelsskole (HHX)",
                         "company": "Haderslev Handelsskole",
                         "period": "Sep 2017 - Juni 2020"

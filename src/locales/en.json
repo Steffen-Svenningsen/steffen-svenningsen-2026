@@ -22,21 +22,25 @@
                 "title": "Erhvervserfaring",
                 "items": [
                     {
+                        "tag": "Lead",
                         "title": "IT & Web Manager",
                         "company": "SK Transport",
                         "period": "Apr 2024 - Present"
                     },
                     {
+                        "tag": "Internship",
                         "title": "Full-Stack Developer",
                         "company": "The Planner Studio",
                         "period": "Aug 2025 - Oct 2025"
                     },
                     {
+                        "tag": "Lead",
                         "title": "Web Manager",
                         "company": "Valeur",
                         "period": "Sep 2023 - Nov 2025"
                     },
                     {
+                        "tag": "Junior",
                         "title": "Frontend Developer",
                         "company": "Zynaps",
                         "period": "Sep 2022 - Oct 2023"
@@ -48,16 +52,19 @@
                 "title": "Education",
                 "items": [
                     {
+                        "tag": "PHP & Full-Stack",
                         "title": "Bachelor in Web Development",
                         "company": "Business Academy Copenhagen",
                         "period": "Aug 2024 - Jan 2026"
                     },
                     {
+                        "tag": "Frontend Programme",
                         "title": "Multimedia Designer AP Degree",
                         "company": "Business Academy Aarhus",
                         "period": "Jan 2022 - Jan 2024"
                     },
                     {
+                        "tag": "Marketing & Business",
                         "title": "Higher Commercial Examination (HHX)",
                         "company": "Business School Haderslev",
                         "period": "Sep 2017 - June 2020"

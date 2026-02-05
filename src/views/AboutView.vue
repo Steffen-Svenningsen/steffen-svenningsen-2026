@@ -28,6 +28,7 @@ const educationExperiences = tm('pages.about.education.items')
             <Experience
                 v-for="(work, index) in workExperiences"
                 :key="index"
+                :tag="work.tag"
                 :title="work.title"
                 :company="work.company"
                 :period="work.period"
@@ -38,6 +39,7 @@ const educationExperiences = tm('pages.about.education.items')
             <Experience 
                 v-for="(education, index) in educationExperiences"
                 :key="index"
+                :tag="education.tag"
                 :title="education.title"
                 :company="education.company"
                 :period="education.period"
