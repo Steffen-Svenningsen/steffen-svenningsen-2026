@@ -32,6 +32,7 @@ const educationExperiences = tm('pages.about.education.items')
                 :title="work.title"
                 :company="work.company"
                 :period="work.period"
+                :tag-color="work.tagColor"
             />
         </section>
         <section>
@@ -43,6 +44,7 @@ const educationExperiences = tm('pages.about.education.items')
                 :title="education.title"
                 :company="education.company"
                 :period="education.period"
+                :tag-color="education.tagColor"
             />
         </section>
     </ContentLayout>

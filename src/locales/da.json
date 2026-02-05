@@ -21,24 +21,28 @@
                 "title": "Erhvervserfaring",
                 "items": [
                     {
+                        "tagColor": "indigo",
                         "tag": "Lead",
                         "title": "IT & Web Manager",
                         "company": "SK Transport",
                         "period": "Apr 2024 - Nu"
                     },
                     {
+                        "tagColor": "amber",
                         "tag": "Praktik",
                         "title": "Full-Stack Udvikler",
                         "company": "The Planner Studio",
                         "period": "Aug 2025 - Okt 2025"
                     },
                     {
+                        "tagColor": "indigo",
                         "tag": "Lead",
                         "title": "Web Manager",
                         "company": "Valeur",
                         "period": "Sep 2023 - Nov 2025"
                     },
                     {
+                        "tagColor": "green",
                         "tag": "Junior",
                         "title": "Frontend Udvikler",
                         "company": "Zynaps",
@@ -51,18 +55,21 @@
                 "title": "Uddannelse",
                 "items": [
                     {
+                        "tagColor": "slate",
                         "tag": "PHP & Full-Stack",
                         "title": "Professionsbachelor i Webudvikling",
                         "company": "Erhvervsakademi København",
                         "period": "Aug 2024 - Jan 2026"
                     },
                     {
+                        "tagColor": "slate",
                         "tag": "Specialisering i Frontend",
                         "title": "Multimediedesigner",
                         "company": "Erhvervsakademi Aarhus",
                         "period": "Jan 2022 - Jan 2024"
                     },
                     {
+                        "tagColor": "slate",
                         "tag": "Marketing & Business",
                         "title": "Handelsskole (HHX)",
                         "company": "Haderslev Handelsskole",

@@ -22,24 +22,28 @@
                 "title": "Erhvervserfaring",
                 "items": [
                     {
+                        "tagColor": "indigo",
                         "tag": "Lead",
                         "title": "IT & Web Manager",
                         "company": "SK Transport",
                         "period": "Apr 2024 - Present"
                     },
                     {
+                        "tagColor": "amber",
                         "tag": "Internship",
                         "title": "Full-Stack Developer",
                         "company": "The Planner Studio",
                         "period": "Aug 2025 - Oct 2025"
                     },
                     {
+                        "tagColor": "indigo",
                         "tag": "Lead",
                         "title": "Web Manager",
                         "company": "Valeur",
                         "period": "Sep 2023 - Nov 2025"
                     },
                     {
+                        "tagColor": "green",
                         "tag": "Junior",
                         "title": "Frontend Developer",
                         "company": "Zynaps",
@@ -52,18 +56,21 @@
                 "title": "Education",
                 "items": [
                     {
+                        "tagColor": "slate",
                         "tag": "PHP & Full-Stack",
                         "title": "Bachelor in Web Development",
                         "company": "Business Academy Copenhagen",
                         "period": "Aug 2024 - Jan 2026"
                     },
                     {
+                        "tagColor": "slate",
                         "tag": "Frontend Programme",
                         "title": "Multimedia Designer AP Degree",
                         "company": "Business Academy Aarhus",
                         "period": "Jan 2022 - Jan 2024"
                     },
                     {
+                        "tagColor": "slate",
                         "tag": "Marketing & Business",
                         "title": "Higher Commercial Examination (HHX)",
                         "company": "Business School Haderslev",
