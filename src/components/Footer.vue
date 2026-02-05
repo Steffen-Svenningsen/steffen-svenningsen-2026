@@ -1,4 +1,13 @@
 <template>
+    <div class="border-t border-gray-200">
+        <div class="container mx-auto px-6 md:px-12 lg:px-16 max-w-7xl flex justify-between items-center py-2">
+            <p class="text-gray-400 text-xs">&copy; {{ new Date().getFullYear() }} Steffen Svenningsen</p>
+            <a class="text-gray-400 text-xs group" target="_blank" href="https://svenningsen.pages.dev/">
+                {{ $t('footer.external') }}
+                <ArrowRight class="inline-block w-4 h-4 group-hover:rotate-45 transition duration-150" />
+            </a>
+        </div>
+    </div>
     <footer class="border-t border-gray-200">
         <div class="container mx-auto px-6 md:px-12 lg:px-16 max-w-7xl py-12 flex flex-col sm:flex-row sm:items-end gap-8 justify-between">
             <div>
@@ -16,10 +25,7 @@
                 </ul>
             </nav>
         </div>
-        <div class="container mx-auto px-6 md:px-12 lg:px-16 max-w-7xl pb-12">
-            <div class="h-px w-full bg-gray-200"></div>
-            <p class="text-gray-400 text-sm mt-12">&copy; {{ new Date().getFullYear() }} Steffen Svenningsen</p>
-        </div>
+        
     </footer>
 </template>
 

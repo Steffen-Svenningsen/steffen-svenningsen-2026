@@ -81,6 +81,8 @@
     },
 
     "footer": {
-        "title": "Lad os skabe noget fedt!"
+        "title": "Lad os skabe noget fedt!",
+
+        "external": "Prøv mig"
     }
 }
